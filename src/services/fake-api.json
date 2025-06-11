@@ -1,0 +1,17 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nombre": "Jaime Zapata",
+      "usuario": "admin",
+      "contrasena": "admin"
+    },
+    {
+      "id": "11b2",
+      "nombre": "sergio",
+      "usuario": "Andres",
+      "contrasena": "12345"
+    }
+  ],
+  "tareas": []
+}

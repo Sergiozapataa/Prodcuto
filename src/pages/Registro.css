@@ -1,0 +1,55 @@
+.Registro {
+  max-width: 400px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #ffffff;
+  border: 1px solid #dcdcdc;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.Registro h2 {
+  margin-bottom: 1.5rem;
+  color: #2c3e50;
+}
+
+.Registro .formulario input {
+  width: 100%;
+  padding: 0.8rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-size: 1rem;
+}
+
+.Registro .formulario button {
+  width: 100%;
+  padding: 0.9rem;
+  font-size: 1rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.Registro .formulario button:hover {
+  background-color: #0056b3;
+}
+
+.boton-inicio {
+  margin-top: 1rem;
+  padding: 0.7rem 1.2rem;
+  background-color: #6c757d;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.boton-inicio:hover {
+  background-color: #5a6268;
+}
